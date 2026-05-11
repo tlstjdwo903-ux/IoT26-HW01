@@ -3,7 +3,7 @@
 ## 1. Project Overview
 - This assignment focuses on digital output control using Raspberry Pi. It involves building a simple LED circuit and writing a Python program to automate the blinking process. I used the gpiozero library for efficient GPIO management and verified the output through the physical LED's behavior.
 ## 2. Execution Screenshots
-- screenshot of the IDE
+- Below is the screenshot of the IDE while the code is running.
 ![IDE Execution](./hw1.png)
 
 ## 3. Working Video
